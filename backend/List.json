@@ -1,0 +1,35 @@
+{
+  "comment": "json-server --watch backend/List.json --port=5000",
+  "list": [
+    {
+      "title": "Walking",
+      "disc": "Walk the dog",
+      "id": "2f9f"
+    },
+    {
+      "title": "Dance",
+      "disc": "dance every morning",
+      "id": "a4b8"
+    },
+    {
+      "title": "Co-carriculam",
+      "disc": "Dancing and singing with cousin",
+      "id": "592c"
+    },
+    {
+      "id": "d530",
+      "title": "somthing",
+      "disc": "to many things\n"
+    },
+    {
+      "id": "601d",
+      "title": "Test",
+      "disc": "this is to  tst delete functinality"
+    },
+    {
+      "id": "b020",
+      "title": "Test",
+      "disc": "This is also t test delet functionality"
+    }
+  ]
+}
